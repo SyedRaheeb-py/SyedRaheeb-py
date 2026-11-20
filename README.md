@@ -4,7 +4,7 @@ Software engineer in Newcastle upon Tyne building Java and Python backends and p
 services that stay up, and LLM features that are evaluated properly instead of demoed.
 
 - MSc Advanced Computer Science, Newcastle University (Distinction)
-- Co-authored a long paper accepted and presented at IEEE FLTA 2026, Paris
+- Co-authored a long paper accepted and presented at IEEE FLTA 2026, Paris ([preprint](https://arxiv.org/abs/2606.11556))
 - Portfolio with a live AI twin you can question: https://syedraheeb-agent.framer.ai
 
 ## Selected work
@@ -12,7 +12,7 @@ services that stay up, and LLM features that are evaluated properly instead of d
 | Project | What it is |
 |---|---|
 | [ecg-explainability](https://github.com/SyedRaheeb-py/ecg-explainability) | MSc dissertation: explainable ECG anomaly detection on a Raspberry Pi 4, comparing two retrieval triggers for on-device RAG |
-| [ecg-federated-ae](https://github.com/kardakyol/ecg-federated-ae) | Co-authored: federated, differentially private ECG autoencoder; 0.78 AUROC under non-IID data (IEEE FLTA 2026) |
+| [ecg-federated-ae](https://github.com/kardakyol/ecg-federated-ae) | Co-authored: federated, differentially private ECG autoencoder; 0.78 AUROC under non-IID data (IEEE FLTA 2026, [preprint](https://arxiv.org/abs/2606.11556)) |
 | [rag-api](https://github.com/SyedRaheeb-py/rag-api) | RAG API with FastAPI, ChromaDB and Ollama, deployed on Kubernetes |
 | [csc8112-iot-ml-coursework](https://github.com/SyedRaheeb-py/csc8112-iot-ml-coursework) | MQTT to RabbitMQ edge pipeline: 96,654 sensor records, TFLite inference at the edge |
 | [csc8637_CNN_Language_Models](https://github.com/SyedRaheeb-py/csc8637_CNN_Language_Models) | EfficientNetB3 at 87.2% on CUB-200, plus a word-level Transformer language model |
